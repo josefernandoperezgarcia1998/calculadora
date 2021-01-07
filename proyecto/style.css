@@ -1,0 +1,49 @@
+.firstTitle{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.contenedorCalculadora{
+    background-color: black;
+    display: inline-block;
+    margin-left: 550px;
+    margin-right: 550px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.contenedorBoton{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boton{
+    width: 115px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.botonNumeros{
+    width: 70px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.resultado{
+    width: 250px;
+    height: 50px;
+    border: solid gray;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+    background-color: white;
+    font-family: serif;
+    font-weight:bold;
+    text-align: center;
+}
